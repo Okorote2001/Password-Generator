@@ -88,3 +88,10 @@
   img{
     width: 2rem;
   }
+
+  @media (max-width: 600px) {
+    .container{
+      width: 90%;
+    }
+  }
+  
